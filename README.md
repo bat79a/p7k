@@ -1,2 +1,2 @@
-# p7k
-p7k test repository
+# p7t
+p7t test repository
